@@ -8,4 +8,5 @@
 </body>
 </html>
 <p>Dies ist eine neue Zeile, hinzugefügt von Bearbeiter 2.</p>
+<p>Weitere Änderungen von Bearbeiter 3.</p>
 
