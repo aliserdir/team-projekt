@@ -7,4 +7,5 @@
 <h1>Willkommen zum Team Projekt</h1>
 </body>
 </html>
+<p>Dies ist eine neue Zeile, hinzugefügt von Bearbeiter 2.</p>
 
